@@ -1,0 +1,12 @@
+C:\Projects\GringottsBank\Gringotts.Core\obj\Debug\net5.0\Gringotts.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GringottsBank\Gringotts.Core\obj\Debug\net5.0\Gringotts.Core.AssemblyInfoInputs.cache
+C:\Projects\GringottsBank\Gringotts.Core\obj\Debug\net5.0\Gringotts.Core.AssemblyInfo.cs
+C:\Projects\GringottsBank\Gringotts.Core\obj\Debug\net5.0\Gringotts.Core.csproj.CoreCompileInputs.cache
+C:\Projects\GringottsBank\Gringotts.Core\bin\Debug\net5.0\Gringotts.Core.deps.json
+C:\Projects\GringottsBank\Gringotts.Core\bin\Debug\net5.0\Gringotts.Core.dll
+C:\Projects\GringottsBank\Gringotts.Core\bin\Debug\net5.0\ref\Gringotts.Core.dll
+C:\Projects\GringottsBank\Gringotts.Core\bin\Debug\net5.0\Gringotts.Core.pdb
+C:\Projects\GringottsBank\Gringotts.Core\obj\Debug\net5.0\Gringotts.Core.dll
+C:\Projects\GringottsBank\Gringotts.Core\obj\Debug\net5.0\ref\Gringotts.Core.dll
+C:\Projects\GringottsBank\Gringotts.Core\obj\Debug\net5.0\Gringotts.Core.pdb
+C:\Projects\GringottsBank\Gringotts.Core\obj\Debug\net5.0\Gringotts.Core.csproj.AssemblyReference.cache

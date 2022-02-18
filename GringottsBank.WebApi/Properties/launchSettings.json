@@ -1,0 +1,39 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:2542",
+      "sslPort": 44302
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        //"DATABASE_NAME": "GringottsDb",
+        //"CUSTOMER_COLLECTION": "Customer",
+        //"ACCOUNT_COLLECTION": "Account",
+        //"TRANSACTION_COLLECTION": "Transaction"
+      }
+    },
+    "GringottsBank.WebApi": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        //"DATABASE_NAME": "GringottsDb",
+        //"CUSTOMER_COLLECTION": "Customer",
+        //"ACCOUNT_COLLECTION": "Account",
+        //"TRANSACTION_COLLECTION": "Transaction"
+      }
+    }
+  }
+}
