@@ -25,6 +25,7 @@ You need to authorize first before using actions, otherwise you wont be able to 
 
 To authorize, you first need to run Pos/Token action from Authentication endpoint. If the credentials are valid, you will claim a token.
 
+<img src = "Images/img1.png">
 
 when you claim the token clik on Authorize button on the upper right side and enter 
 “Bearer <your_token>” and click Authorize.
