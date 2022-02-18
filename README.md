@@ -30,6 +30,7 @@ To authorize, you first need to run Pos/Token action from Authentication endpoin
 when you claim the token clik on Authorize button on the upper right side and enter 
 “Bearer <your_token>” and click Authorize.
 
+<img src = "Images/img2.png">
 
 now you are good to go..
 
